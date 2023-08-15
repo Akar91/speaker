@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	min-height: 50%;
+	background-color: lightblue;
+}
+
+textarea {
+	width: 25%;
+	height: 200%;
+	margin-top: 10px;
+}
+
+button {
+	width: 25%;
+	height: 25%;
+	margin-top: 5px;
+
+
+}
